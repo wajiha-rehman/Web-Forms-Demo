@@ -1,0 +1,146 @@
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\WebFormsDemo.dll.config
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\WebFormsDemo.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\WebFormsDemo.pdb
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\csc.exe
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\csc.exe.config
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\csc.rsp
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\csi.exe
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\csi.exe.config
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\csi.rsp
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.AppContext.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Console.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.IO.Compression.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Net.Http.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Net.Sockets.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.ValueTuple.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Xml.XPath.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\vbc.exe
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\vbc.exe.config
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\vbc.rsp
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\VBCSCompiler.exe
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Antlr3.Runtime.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\AspNet.ScriptManager.bootstrap.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Newtonsoft.Json.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\System.Web.Optimization.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\WebGrease.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\System.Web.Optimization.xml
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Newtonsoft.Json.xml
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Antlr3.Runtime.pdb
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\obj\Debug\WebFormsDemo.csprojAssemblyReference.cache
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\obj\Debug\WebFormsDemo.csproj.CoreCompileInputs.cache
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\obj\Debug\WebFormsDemo.csproj.CopyComplete
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\obj\Debug\WebFormsDemo.dll
+C:\dotnetcore\WebFormsDemo\WebFormsDemo\obj\Debug\WebFormsDemo.pdb
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\WebFormsDemo.dll.config
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\WebFormsDemo.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\WebFormsDemo.pdb
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\csc.exe
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\csc.exe.config
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\csc.rsp
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\csi.exe
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\csi.exe.config
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\csi.rsp
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.AppContext.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Console.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Globalization.Calendars.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.IO.Compression.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Net.Http.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Net.Sockets.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.ValueTuple.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Xml.XPath.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\vbc.exe
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\vbc.exe.config
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\vbc.rsp
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\VBCSCompiler.exe
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Antlr3.Runtime.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\AspNet.ScriptManager.bootstrap.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Newtonsoft.Json.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\System.Web.Optimization.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\WebGrease.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\System.Web.Optimization.xml
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Newtonsoft.Json.xml
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Antlr3.Runtime.pdb
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\obj\Debug\WebFormsDemo.csprojResolveAssemblyReference.cache
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\obj\Debug\WebFormsDemo.dll
+C:\dotnetcore\Personal Projects\WebFormsDemo\WebFormsDemo\obj\Debug\WebFormsDemo.pdb
