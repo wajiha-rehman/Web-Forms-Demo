@@ -75,8 +75,10 @@ namespace WebFormsDemo
             {
                 try
                 {
-                    string command = "Select * from products where p_name like '%" + txtSearchProduct.Text + "%'";
-                    SqlCommand cmd = new SqlCommand(command, con);
+                    //string command = "Select * from products where p_name like @ProductName";
+                    SqlCommand cmd = new SqlCommand("sp_GetProductsByName", con);
+                    cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                    cmd.Parameters.Add("@ProductName",txtSearchProduct.Text);
                     con.Open();
                     GridView1.DataSource = cmd.ExecuteReader();
                     GridView1.DataBind();
